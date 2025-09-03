@@ -90,32 +90,29 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": " Efficient Fair Learning with Subset Selection",
+      "publisher": "UTD Theses and Dissertations",
+      "releaseDate": "2023",
+      "website": "https://hdl.handle.net/10735.1/10034",
+      "summary": "This work is about fair and efficient machine learning which uses bi-level optimization approach to enhance fairness, overall accuracy, and reduce the computational cost."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Brain Tumor Detection by Using Convolution Neural Network",
+      "publisher": " International Journal of Online and Biomedical Engineering (iJOE)",
+      "releaseDate": "2020",
+      "website": "https://doi.org/10.3991/ijoe.v16i13.18545",
+      "summary": "This work aimed to increase the efficiency in detecting brain tumor using convolution neural network."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Monitoring of Patient Critical Health Parameters by using a Low-Cost IoT based System",
+      "publisher": "Journal of Xidian University",
+      "releaseDate": "2020",
+      "website": "https://doi.org/10.37896/jxu14.8/075"
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Low Cost IoT Based Emission Monitoring System for Thermal Power Plants",
+      "publisher": "Innovations in Power and Advanced Computing Technologies (i-PACT)",
+      "releaseDate": "2019"
     }
   ]
 }
