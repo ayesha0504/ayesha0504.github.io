@@ -89,6 +89,12 @@
   "references": [],
   "publications": [
     {
+      "name": " PLRV-O: Advancing Differentially Private Deep Learning via Pivacy Loss Random Variable Optimization",
+      "publisher": "ACM Conference on Computer and Communications Security (CCS)",
+      "releaseDate": "2025",
+      "summary": "It is a novel framework to design and optimize noise distribution by directly embedding PLRV into noise's PDF. It significantly improves performance under strong privacy constraints."
+    },
+    {
       "name": " Efficient Fair Learning with Subset Selection",
       "publisher": "UTD Theses and Dissertations",
       "releaseDate": "2023",
