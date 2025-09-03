@@ -2,15 +2,14 @@
   "basics": {
     "name": "Ayesha Samreen",
     "email": "ayesha62@iastate.edu",
-    "phone": "",
     "website": "https://ayesha0504.github.io/",
     "summary": "PhD student in Computer Science at Iowa State University",
     "location": {
       "address": "",
       "postalCode": "",
       "city": "Ames",
-      "countryCode": "US",
-      "region": ""
+      "countryCode": "USA",
+      "region": "IA"
     },
     "profiles": [
       {
@@ -36,7 +35,7 @@
       "position": "Graduate Research Assistant",
       "website": "https://www.iastate.edu",
       "startDate": "May 2025",
-      "endDate": "",
+      "endDate": "Present",
       "summary": "Conducting research in Responsible and Trustworthy AI with a focus on differential privacy and fairness in deep learning models."
     },
     {
@@ -44,7 +43,7 @@
       "position": "Graduate Teaching Assistant",
       "website": "https://www.iastate.edu",
       "startDate": "Jan 2025",
-      "endDate": "",
+      "endDate": "Present",
       "summary": "Assisted in delivering lectures and recitations for the computer science undergrad courses. Held weekly office hours to support student learning. Assisted in designing and grading assignments, quizzes, and exams."
     },
     {
@@ -112,7 +111,8 @@
     {
       "name": "Low Cost IoT Based Emission Monitoring System for Thermal Power Plants",
       "publisher": "Innovations in Power and Advanced Computing Technologies (i-PACT)",
-      "releaseDate": "2019"
+      "releaseDate": "2019",
+      "website": "https://ieeexplore.ieee.org/document/8960194"
     }
   ]
 }
